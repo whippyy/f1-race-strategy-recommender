@@ -1,0 +1,6 @@
+@F1StrategyRecommendation.API_HostAddress = http://localhost:5266
+
+GET {{F1StrategyRecommendation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

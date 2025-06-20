@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YhszbQKNSPs=",
+  "success": true,
+  "projectFilePath": "/Users/henryle/Library/Mobile Documents/com~apple~CloudDocs/Personal Projects/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/henryle/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/henryle/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
