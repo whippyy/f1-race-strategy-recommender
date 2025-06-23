@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("F1StrategyRecommendation.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b308c6087dc39028cb1b1f79355787b6423a3d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f10e45b6b7763c59235ef765f0e545e3c30181fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("F1StrategyRecommendation.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("F1StrategyRecommendation.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
