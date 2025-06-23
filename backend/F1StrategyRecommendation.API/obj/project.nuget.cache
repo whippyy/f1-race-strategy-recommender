@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mi4nsPtfi48=",
+  "dgSpecHash": "A6AtZDMyR7g=",
   "success": true,
-  "projectFilePath": "/Users/henryle/Library/Mobile Documents/com~apple~CloudDocs/Personal Projects/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj",
+  "projectFilePath": "/Users/henryle/Documents/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj",
   "expectedPackageFiles": [
     "/Users/henryle/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/henryle/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",

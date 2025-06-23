@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/henryle/Library/Mobile Documents/com~apple~CloudDocs/Personal Projects/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj": {}
+    "/Users/henryle/Documents/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj": {}
   },
   "projects": {
-    "/Users/henryle/Library/Mobile Documents/com~apple~CloudDocs/Personal Projects/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj": {
+    "/Users/henryle/Documents/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/henryle/Library/Mobile Documents/com~apple~CloudDocs/Personal Projects/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj",
+        "projectUniqueName": "/Users/henryle/Documents/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj",
         "projectName": "F1StrategyRecommendation.API",
-        "projectPath": "/Users/henryle/Library/Mobile Documents/com~apple~CloudDocs/Personal Projects/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj",
+        "projectPath": "/Users/henryle/Documents/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/F1StrategyRecommendation.API.csproj",
         "packagesPath": "/Users/henryle/.nuget/packages/",
-        "outputPath": "/Users/henryle/Library/Mobile Documents/com~apple~CloudDocs/Personal Projects/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/obj/",
+        "outputPath": "/Users/henryle/Documents/f1-race-strategy-recommender/backend/F1StrategyRecommendation.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/henryle/.nuget/NuGet/NuGet.Config"
